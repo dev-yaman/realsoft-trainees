@@ -127,6 +127,8 @@ Other
 
 [Slides](https://github.com/dev-yaman/realsoft-trainees/blob/main/Day1/Slides)
 
+[Day 2 + 3](https://github.com/dev-yaman/realsoft-trainees/blob/main/Day2/README.md)
+
 <hr>
 
 Web Technologies Documentation and Concepts
