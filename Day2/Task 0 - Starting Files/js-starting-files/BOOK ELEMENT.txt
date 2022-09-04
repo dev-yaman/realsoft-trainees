@@ -1,0 +1,10 @@
+<li class="book-element">
+  <div class="book-element__image">
+  <img src="url">
+  </div>
+
+  <div class="book-element__info">
+  <h2> Title </h2>
+  <p> rating/5 </p>
+  </div>
+  </li>
