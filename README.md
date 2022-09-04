@@ -136,3 +136,13 @@ Web Technologies Documentation and Concepts
  - https://www.smashingmagazine.com/2009/05/web-design-industry-jargon-glossary-and-resources/
  - http://jargon.js.org/
  - https://angular.io/docs
+
+<hr>
+
+Contact us for any help:
+
+- Yaman Alashqar: yeman.alashqar@realsoft-me.com
+
+ - Maher Abaza: Maher.Abaza@Realsoft-me.com
+
+ - Talha Alshafeey Talha.Alshafeey@Realsoft-me.com
